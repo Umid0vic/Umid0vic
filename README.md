@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Umid0vic
-- 👀 I’m interested in web & mobile app development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning Vue.JS and Flutter
 
 <!---
