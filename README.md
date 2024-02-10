@@ -24,7 +24,7 @@ I'm a passionate software developer with a keen interest in building impactful s
 
 ## Connect With Me
 
-Feel free to reach out or follow me on [LinkedIn](#) (linkedin.com/in/osman-said-36923b1b6). I'm always open to interesting conversations and collaboration opportunities.
+Feel free to reach out or follow me on [LinkedIn](https://linkedin.com/in/osman-said-36923b1b6). I'm always open to interesting conversations and collaboration opportunities.
 
 ## My GitHub Contributions
 
