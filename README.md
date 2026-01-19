@@ -1,41 +1,52 @@
-<h1 align="center">Hi there, I'm Osman 👋</h1>
+<div align="center">
 
-<!-- Introduction -->
-## About Me
+# Hello, I'm Osman 👋
+**Full-Stack & Mobile Developer**
 
-I'm a passionate software developer with a keen interest in building impactful software solutions. Currently, I'm diving deep into the world of .NET and React, working as a full-stack developer. My journey in software development is driven by curiosity and the constant pursuit of learning.
+*Crafting elegant solutions for Web, Backend, and Mobile.*
 
-<!-- GitHub Stats -->
-<p align="center">
-  <a href="https://github.com/Umid0vic">
-    <img src="https://github-readme-stats.vercel.app/api?username=Umid0vic&show_icons=true&theme=tokyonight" alt="Umid0vic's GitHub Stats">
-  </a>
+---
+
+[ LinkedIn ](https://linkedin.com/in/osman-said-36923b1b6) • [ Portfolio ](#) • [ Email ](mailto:osman.said@example.com)
+
+---
+
+</div>
+
+### 🪐 About Me
+I am a versatile software developer with a focus on building high-performance, scalable applications. My expertise spans across **.NET** and **Node.js (TypeScript)** for robust backends, **React** for dynamic web interfaces, and **Mobile Application Development** to deliver seamless user experiences on the go.
+
+### 🛠️ Tech Stack
+
+#### **Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-<!-- Streak Stats -->
-<p align="center">
-  <a href="https://github.com/Umid0vic">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umid0vic&theme=dark" alt="Umid0vic's GitHub Streak">
-  </a>
+#### **Frontend & Mobile**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<!-- Programming Languages -->
-## Languages and Tools:
+### 📊 Github Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Umid0vic&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=777&icon_color=007ACC" alt="Osman's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umid0vic&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=777" alt="Osman's Top Langs" width="43%" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/Umid0vic">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umid0vic&layout=compact&theme=tokyonight" alt="Umid0vic's Most Used Languages">
-  </a>
-</p>
+<br />
 
-<!-- Current Focus -->
-## What I'm Focused On
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umid0vic&theme=transparent&hide_border=true&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakLabel=007ACC" alt="Osman's Streak" />
+</div>
 
-- 🔭 Crafting web applications using **.NET** and **React**
-- 🌱 Enhancing my full-stack development skills
-- 👀 Exploring new technologies and frameworks in software development
+---
 
-<!-- Connection Links -->
-## Connect With Me
-
-Feel free to reach out or follow me on [LinkedIn](https://linkedin.com/in/osman-said-36923b1b6). I'm always open to interesting conversations and collaboration opportunities.
+<div align="center">
+  <sub>Stay curious. Keep building.</sub>
+</div>
